@@ -1,0 +1,4 @@
+patient siteInfo
+patient addPatient Joe.Bloggs 1995-03-21 12345678
+patient getPatientByPatId 12345678
+patient addDrugTreatment 1 555123 Something_Bad Drug_A 1.2

@@ -1,0 +1,2 @@
+provider addProvider Jane.Smith 555123 General_Practitioner
+provider addProvider Erik.Jones 666123 Radiologist

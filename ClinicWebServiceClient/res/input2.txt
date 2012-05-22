@@ -1,0 +1,3 @@
+patient siteInfo
+
+patient addDrugTreatment 1 555123 Something_Bad Drug_A 1.2
